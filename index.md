@@ -9,9 +9,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Linux Extended File System
+
+Use the following command to view the superblock metadata details
+
+`sudo dumpe2fs /dev/sda1 | head -n 30`  
 
 - Bulleted
 - List
