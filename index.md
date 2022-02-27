@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Incident Response and Digital Forensics ##
 
-You can use the [editor on GitHub](https://github.com/hostwebsiteongithub/hostwebsiteongithub.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website contains information about Incident Response and Digitcal forensics focused on Linux, Macosx, and Windows , Cloud etc..
 
 ### Markdown
 
